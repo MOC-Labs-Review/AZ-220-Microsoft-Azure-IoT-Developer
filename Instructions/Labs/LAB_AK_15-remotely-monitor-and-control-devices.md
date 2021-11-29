@@ -412,7 +412,7 @@ In this task, you will begin work on the back-end app that will be used to recei
     >
     > **Information**: You can learn more about NuGet [here](https://docs.microsoft.com/en-us/nuget/what-is-nuget).
 
-#### Task 3: Add the telemetry receiver code
+#### Task 2: Add the telemetry receiver code
 
 1. In the **EXPLORER** pane, click **Program.cs**.
 
