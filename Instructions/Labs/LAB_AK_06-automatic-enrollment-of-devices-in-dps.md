@@ -1025,7 +1025,7 @@ With the simulated devices running, the `telemetryDelay` configuration can be up
 
 1. Close the **sensor-thl-2000** blade, and then navigate back to your Azure portal Dashboard.
 
-### Exercise 5: Deprovision a single device from the Group Enrollment
+### Exercise 6: Deprovision a single device from the Group Enrollment
 
 There are many reasons why you might need to deprovision just a portion of the devices that are registered as part of a group enrollment. For example, a device may no longer be needed, a newer version of the device may have become available, or it may have been broken or compromised.
 
@@ -1140,7 +1140,7 @@ In this task, you will use the **sensor-thl-2004** device for the individual enr
 
     If you were to go back into your Azure portal and either enable the individual enrollment or delete the individual enrollment, the device will once again be able to authenticate with DPS and connect to IoT hub. If the individual enrollment is deleted, the device is automatically added back to the group enrollment.
 
-### Exercise 6: Deprovision the Group Enrollment
+### Exercise 7: Deprovision the Group Enrollment
 
 In this exercise, you will deprovision the full enrollment group. Again, this includes disenrolling from Device Provisioning Service and deregistering the devices from IoT Hub.
 
