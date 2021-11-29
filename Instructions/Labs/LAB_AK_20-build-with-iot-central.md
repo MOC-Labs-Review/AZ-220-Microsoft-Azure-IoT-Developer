@@ -352,7 +352,7 @@ Preparing a device template does take some care and some time.
 
 In the next Exercise, you will use the capabilities of your device template to prepare a controllers dashboard. Preparing views can be done before, or after, a device template is published.
 
-### Exercise 3: Monitor a Simulated Device
+### Exercise 2: Monitor a Simulated Device
 
 To begin this exercise, you will create a dashboard showing all the capabilities of the device template. After that you will use your device template to create a device, and make a record of the connection settings needed for the remote device app.
 
@@ -460,7 +460,7 @@ Your next step will be to create the keys that will allow a remote device to com
 
 Leave the IoT portal open in your browser, waiting as it is.
 
-### Exercise 4: Create a free Azure Maps account
+### Exercise 3: Create a free Azure Maps account
 
 If you do not already have an Azure Maps account, you will need to create one.
 
@@ -531,7 +531,7 @@ You've now completed the preparatory steps of connecting your first IoT Central 
 
 The next step is to create the device app.
 
-### Exercise 5: Create a Programming Project for a Real Device
+### Exercise 4: Create a Programming Project for a Real Device
 
 In this task, you are going to create a programming project to simulate a sensor device in a refrigerated truck. This simulation enables you to test the code long before requiring a physical device.
 
@@ -1329,7 +1329,7 @@ To make this process as simple as possible, each additional section of code shou
 
     With your simulated device app complete, you can now start thinking about testing your code.
 
-### Exercise 6: Test Your IoT Central Device
+### Exercise 5: Test Your IoT Central Device
 
 In this exercise, you finally get to check whether all the moving parts you've created will work together as intended.
 
@@ -1504,7 +1504,7 @@ To test a conflict event, you can send a command that you know doesn't make sens
 
 With the testing for one truck complete, it is time to consider expanding our IoT Central system.
 
-### Exercise 7: Create multiple devices
+### Exercise 6: Create multiple devices
 
 In this exercise, you will complete the steps required to add multiple trucks to your fleet.
 
