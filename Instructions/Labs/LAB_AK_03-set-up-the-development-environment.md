@@ -368,7 +368,7 @@ Azure PowerShell is a set of cmdlets for managing Azure resources directly from 
 > Update-Module -Name Az
 > ```
 
-### Exercise 3 - Register resource providers
+### Exercise 4 - Register resource providers
 
 Many different types of resources will be created during this course, some of which may not have been register for use in the current subscription. While some resources are registered automatically during the first use, others must be registered before they can be used, otherwise errors will be reported.
 
